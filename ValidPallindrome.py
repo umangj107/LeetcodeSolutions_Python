@@ -1,3 +1,5 @@
+#Approach-1
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         n = len(s)
@@ -21,3 +23,12 @@ class Solution:
                     right-=1
         
         return True
+    
+###########
+#Approach-2
+#Efficient
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        output_list = [i for i in s if i.isalnum()]
+        return ("".join(output_list).lower() == "".join(output_list[::-1]).lower())

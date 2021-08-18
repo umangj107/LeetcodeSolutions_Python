@@ -8,6 +8,7 @@ This repository contains solutions to Leetcode questions in Python language.
 206.[Reverse Linked List](LinkedList/ReverseLinkedList.py)<br>
 283.[Move Zeroes](MoveZeroes.py)<br>
 344.[Reverse String](ReverseString.py)<br>
+905.[Sort Array By Parity](Arrays/SortArrayByParity.py)<br>
 1509.[Minimum Difference Between Largest and Smallest Value in Three Moves](MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves.py)
 
 

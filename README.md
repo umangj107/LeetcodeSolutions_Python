@@ -34,3 +34,8 @@ Following color codes represent the difficulty level:
 ## Searching and Sorting
 🟠34.[Find First and Last Position of Element in Sorted Array](SearchingAndSorting/FindFirstandLastPositionofElementinSortedArray.py)<br>
 
+---
+## Binary Trees
+🟠102.[Binary Tree Level Order Traversal](BinaryTrees/BinaryTreeLevelOrderTraversal.py)<br>
+
+---

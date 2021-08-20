@@ -40,3 +40,7 @@ Following color codes represent the difficulty level:
 🟠107.[Binary Tree Level Order Traversal II](BinaryTrees/BinaryTreeLevelOrderTraversal2.py)<br>
 
 ---
+## Binary Search Trees
+🟢700.[Search in a Binary Search Tree](BinarySearchTrees/SearchInABinarySearchTree.py)
+
+---

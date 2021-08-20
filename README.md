@@ -45,3 +45,5 @@ Following color codes represent the difficulty level:
 🟢700.[Search in a Binary Search Tree](BinarySearchTrees/SearchInABinarySearchTree.py)<br>
 
 ---
+## Stacks and Queues
+🟢1441.[Build an Array With Stack Operations](Stacks&Queues/BuildAnArrayWithStackOperations.py)

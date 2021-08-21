@@ -21,6 +21,7 @@ Following color codes represent the difficulty level:
 
 ---
 ## Matrix
+🟠54.[Spiral Matrix](Matrix/SpiralMatrix.py)<br>
 🟠74.[Search a 2D Matrix](Matrix/SearchA2DMatrix.py)<br>
 
 ---

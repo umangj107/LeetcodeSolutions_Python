@@ -31,6 +31,7 @@ Following color codes represent the difficulty level:
 ---
 ## String
 🟢125.[Valid Palindrome](String/ValidPallindrome.py)<br>
+🟢205.[Isomorphic Strings](String/IsomorphicStrings.py)<br>
 
 ---
 ## Searching and Sorting

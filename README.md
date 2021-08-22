@@ -16,6 +16,7 @@ Following color codes represent the difficulty level:
 🟢283.[Move Zeroes](Arrays/MoveZeroes.py)<br>
 🟢344.[Reverse String](Arrays/ReverseString.py)<br>
 🟢349.[Intersection of Two Arrays](Arrays/IntersectionOfTwoArrays.py)<br>
+🟢724.[Find Pivot Index](Arrays/FindPivotIndex.py)<br>
 🟢905.[Sort Array By Parity](Arrays/SortArrayByParity.py)<br>
 🟠1509.[Minimum Difference Between Largest and Smallest Value in Three Moves](Arrays/MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves.py)<br>
 

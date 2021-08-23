@@ -52,3 +52,7 @@ Following color codes represent the difficulty level:
 ---
 ## Stacks and Queues
 🟢1441.[Build an Array With Stack Operations](Stacks&Queues/BuildAnArrayWithStackOperations.py)
+
+---
+## Dynamic Programming
+🔴1547.[Minimum Cost to Cut a Stick](DynamicProgramming/MinimumCostToCutAStick.py)

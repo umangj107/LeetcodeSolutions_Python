@@ -42,6 +42,7 @@ Following color codes represent the difficulty level:
 
 ## String
 
+🟠38.[Count and Say](String/CountAndSay.py)<br>
 🟢125.[Valid Palindrome](String/ValidPallindrome.py)<br>
 🟢205.[Isomorphic Strings](String/IsomorphicStrings.py)<br>
 🟢796.[Rotate String](String/RotateString.py)<br>

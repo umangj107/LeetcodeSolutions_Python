@@ -36,6 +36,7 @@ Following color codes represent the difficulty level:
 
 ## Linked List
 
+🔴25.[Reverse Nodes in k-Group](LinkedList/ReverseNodesInKGroups.py)<br>
 🟢206.[Reverse Linked List](LinkedList/ReverseLinkedList.py)<br>
 
 ---

@@ -45,6 +45,7 @@ Following color codes represent the difficulty level:
 🟢125.[Valid Palindrome](String/ValidPallindrome.py)<br>
 🟢205.[Isomorphic Strings](String/IsomorphicStrings.py)<br>
 🟢796.[Rotate String](String/RotateString.py)<br>
+🟢1528.[Shuffle String](String/ShuffleString.py)<br>
 
 ---
 

@@ -12,6 +12,7 @@ Following color codes represent the difficulty level:
 
 ## Arrays
 
+🟠45.[Jump Game II](Arrays/JumpGame2.py)<br>
 🟢53.[Maximum Subarray](Arrays/MaximumSubarray.py)<br>
 🟠55.[Jump Game](Arrays/JumpGame.py)<br>
 🟠75.[Sort Colors](Arrays/SortColors.py)<br>

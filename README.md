@@ -18,6 +18,7 @@ Following color codes represent the difficulty level:
 🟠75.[Sort Colors](Arrays/SortColors.py)<br>
 🟠189.[Rotate Array](Arrays/RotateArray.py)<br>
 🟢283.[Move Zeroes](Arrays/MoveZeroes.py)<br>
+🟠287.[Find the Duplicate Number](Arrays\FindTheDuplicateNumber.py)<br>
 🟢344.[Reverse String](Arrays/ReverseString.py)<br>
 🟢349.[Intersection of Two Arrays](Arrays/IntersectionOfTwoArrays.py)<br>
 🟢724.[Find Pivot Index](Arrays/FindPivotIndex.py)<br>

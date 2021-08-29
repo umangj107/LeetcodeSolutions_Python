@@ -88,3 +88,9 @@ Following color codes represent the difficulty level:
 ## Dynamic Programming
 
 🔴1547.[Minimum Cost to Cut a Stick](DynamicProgramming/MinimumCostToCutAStick.py)
+
+---
+
+## Graphs
+
+🟢1791.[Find Center of Star Graph](Graphs/FindCenterOfStarGraph.py)

@@ -91,6 +91,7 @@ Following color codes represent the difficulty level:
 
 ## Dynamic Programming
 
+🟢70.[Climbing Stairs](DynamicProgramming/ClimbingStairs.py)<br>
 🟢509.[Fibonacci Number](DynamicProgramming/FibonacciNumber.py)<br>
 🟢1137.[N-th Tribonacci Number](DynamicProgramming/N-thTribonacciNumber.py)<br>
 🔴1547.[Minimum Cost to Cut a Stick](DynamicProgramming/MinimumCostToCutAStick.py)<br>

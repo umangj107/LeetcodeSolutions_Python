@@ -75,6 +75,7 @@ Following color codes represent the difficulty level:
 🟢144.[Binary Tree Preorder Traversal](BinaryTrees/BinaryTreePreorderTraversal.py)<br>
 🟢145.[Binary Tree Postorder Traversal](BinaryTrees/BinaryTreePostorderTraversal.py)<br>
 🟠199.[Binary Tree Right Side View](BinaryTrees/BinaryTreeRightSideView.py)<br>
+🟢543.[Diameter of Binary Tree](BinaryTrees/DiameterOfBinaryTree.py)<br>
 
 ---
 

@@ -95,6 +95,7 @@ Following color codes represent the difficulty level:
 
 ## Dynamic Programming
 
+🟠62.[Unique Paths](DynamicProgramming/UniquePaths.py)<br>
 🟢70.[Climbing Stairs](DynamicProgramming/ClimbingStairs.py)<br>
 🟠198.[House Robber](DynamicProgramming/HouseRobber.py)<br>
 🟠213.[House Robber II](DynamicProgramming/HouseRobber2.py)<br>

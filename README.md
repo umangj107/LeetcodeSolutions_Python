@@ -105,6 +105,7 @@ Following color codes represent the difficulty level:
 🟠740.[Delete and Earn](DynamicProgramming/DeleteAndEarn.py)<br>
 🟢746.[Min Cost Climbing Stairs](DynamicProgramming/MinimumCostClimbingStairs.py)<br>
 🟠918.[Maximum Sum Circular Subarray](DynamicProgramming/MaximumSumCircularSubarray.py)<br>
+🟠1014.[Best Sightseeing Pair](DynamicProgramming/BestSightseeingPair.py)<br>
 🟢1137.[N-th Tribonacci Number](DynamicProgramming/N-thTribonacciNumber.py)<br>
 🔴1547.[Minimum Cost to Cut a Stick](DynamicProgramming/MinimumCostToCutAStick.py)<br>
 🟠1567.[Maximum Length of Subarray With Positive Product](DynamicProgramming/MaximumLengthofSubarrayWithPositiveProduct.py)<br>

@@ -98,6 +98,7 @@ Following color codes represent the difficulty level:
 🟠62.[Unique Paths](DynamicProgramming/UniquePaths.py)<br>
 🟢70.[Climbing Stairs](DynamicProgramming/ClimbingStairs.py)<br>
 🟢121.[Best Time to Buy and Sell Stock](DynamicProgramming/BestTimetoBuyandSellStock.py)<br>
+🟠122.[Best Time to Buy and Sell Stock II](DynamicProgramming/BestTimetoBuyandSellStockII)<br>
 🟠152.[Maximum Product Subarray](DynamicProgramming/MaximumProductSubarray.py)<br>
 🟠198.[House Robber](DynamicProgramming/HouseRobber.py)<br>
 🟠213.[House Robber II](DynamicProgramming/HouseRobber2.py)<br>

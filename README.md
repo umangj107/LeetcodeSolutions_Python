@@ -105,6 +105,7 @@ Following color codes represent the difficulty level:
 🟠309.[Best Time to Buy and Sell Stock with Cooldown](DynamicProgramming/BestTimetoBuyandSellStockII.py)<br>
 🟠322.[Coin Change](DynamicProgramming/CoinChange.py)<br>
 🟢509.[Fibonacci Number](DynamicProgramming/FibonacciNumber.py)<br>
+🟠714.[Best Time to Buy and Sell Stock with Transaction Fee](DynamicProgramming/BestTimetoBuyandSellStockwithTransactionFee.py)<br>
 🟠740.[Delete and Earn](DynamicProgramming/DeleteAndEarn.py)<br>
 🟢746.[Min Cost Climbing Stairs](DynamicProgramming/MinimumCostClimbingStairs.py)<br>
 🟠918.[Maximum Sum Circular Subarray](DynamicProgramming/MaximumSumCircularSubarray.py)<br>

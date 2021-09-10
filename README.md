@@ -24,6 +24,7 @@ Following color codes represent the difficulty level:
 🟠287.[Find the Duplicate Number](Arrays/FindTheDuplicateNumber.py)<br>
 🟢344.[Reverse String](Arrays/ReverseString.py)<br>
 🟢349.[Intersection of Two Arrays](Arrays/IntersectionOfTwoArrays.py)<br>
+🟠560.[Subarray Sum Equals K](Arrays/SubarraySumEqualsK.py)<br>
 🟠565.[Array Nesting](Arrays/ArrayNesting.py)<br>
 🟢724.[Find Pivot Index](Arrays/FindPivotIndex.py)<br>
 🟢905.[Sort Array By Parity](Arrays/SortArrayByParity.py)<br>

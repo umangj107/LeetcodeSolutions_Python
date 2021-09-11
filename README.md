@@ -126,3 +126,9 @@ Following color codes represent the difficulty level:
 ## Heap
 
 🟠215.[Kth Largest Element in an Array](Heap/KthLargestElementInAnArray.py)
+
+---
+
+## Backtracking
+
+46.[Permutations](Backtracking/Permutations.py)<br>

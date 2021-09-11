@@ -84,6 +84,7 @@ Following color codes represent the difficulty level:
 ## Binary Search Trees
 
 🟠96.[Unique Binary Search Trees](BinarySearchTrees/UniqueBinarySearchTrees.py)<br>
+🟠98.[Validate Binary Search Tree](BinarySearchTrees/ValidateBinarySearchTree.py)<br>
 🟠450.[Delete Node in a BST](BinarySearchTrees/DeleteNodeInABST.py)<br>
 🟢700.[Search in a Binary Search Tree](BinarySearchTrees/SearchInABinarySearchTree.py)<br>
 

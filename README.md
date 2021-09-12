@@ -14,6 +14,7 @@ Following color codes represent the difficulty level:
 
 🟢26.[Remove Duplicates from Sorted Array](Arrays/RemoveDuplicatesFromSortedArray.py)<br>
 🟢27.[Remove Element](Arrays/RemoveElement.py)<br>
+🔴42.[Trapping Rain Water](Arrays/TrappingRainWater.py)<br>
 🟠45.[Jump Game II](Arrays/JumpGame2.py)<br>
 🟢53.[Maximum Subarray](Arrays/MaximumSubarray.py)<br>
 🟠55.[Jump Game](Arrays/JumpGame.py)<br>

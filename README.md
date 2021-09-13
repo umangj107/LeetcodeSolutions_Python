@@ -105,6 +105,7 @@ Following color codes represent the difficulty level:
 🟢70.[Climbing Stairs](DynamicProgramming/ClimbingStairs.py)<br>
 🟠91.[Decode Ways](DynamicProgramming/DecodeWays.py)<br>
 🟢118.[Pascal's Triangle](DynamicProgramming/Pascal'sTriangle.py)<br>
+🟢119.[Pascal's Triangle II](DynamicProgramming/Pascal'sTriangleII.py)<br>
 🟢121.[Best Time to Buy and Sell Stock](DynamicProgramming/BestTimetoBuyandSellStock.py)<br>
 🟠122.[Best Time to Buy and Sell Stock II](DynamicProgramming/BestTimetoBuyandSellStockII)<br>
 🟠139.[Word Break](DynamicProgramming/WordBreak.py)<br>

@@ -45,6 +45,7 @@ Following color codes represent the difficulty level:
 
 ## Linked List
 
+🟠19.[Remove Nth Node From End of List](LinkedList/RemoveNthNodeFromEndofList.py)<br>
 🔴25.[Reverse Nodes in k-Group](LinkedList/ReverseNodesInKGroups.py)<br>
 🟢141.[Linked List Cycle](LinkedList/LinkedListCycle.py)<br>
 🟠142.[Linked List Cycle II](LinkedList/LinkedListCycle2.py)<br>

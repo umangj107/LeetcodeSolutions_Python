@@ -48,6 +48,7 @@ Following color codes represent the difficulty level:
 🔴25.[Reverse Nodes in k-Group](LinkedList/ReverseNodesInKGroups.py)<br>
 🟢141.[Linked List Cycle](LinkedList/LinkedListCycle.py)<br>
 🟠142.[Linked List Cycle II](LinkedList/LinkedListCycle2.py)<br>
+🟢160.[Intersection of Two Linked Lists](LinkedList/IntersectionOfTwoLinkedLists.py)<br>
 🟢206.[Reverse Linked List](LinkedList/ReverseLinkedList.py)<br>
 
 ---

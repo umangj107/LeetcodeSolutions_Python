@@ -115,6 +115,7 @@ Following color codes represent the difficulty level:
 🟠152.[Maximum Product Subarray](DynamicProgramming/MaximumProductSubarray.py)<br>
 🟠198.[House Robber](DynamicProgramming/HouseRobber.py)<br>
 🟠213.[House Robber II](DynamicProgramming/HouseRobber2.py)<br>
+🟠221.[Maximal Square](DynamicProgramming/MaximalSquare.py)<br>
 🟠264.[Ugly Number II](DynamicProgramming/UglyNumberII.py)<br>
 🟠304.[Range Sum Query 2D - Immutable](DynamicProgramming/RangeSumQuery2DImmutable.py)<br>
 🟠309.[Best Time to Buy and Sell Stock with Cooldown](DynamicProgramming/BestTimetoBuyandSellStockII.py)<br>

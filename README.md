@@ -103,6 +103,7 @@ Following color codes represent the difficulty level:
 
 🟠62.[Unique Paths](DynamicProgramming/UniquePaths.py)<br>
 🟠63.[Unique Paths II](DynamicProgramming/UniquePathsII.py)<br>
+🟠64.[Minimum Path Sum](DynamicProgramming/MinimumPathSum.py)<br>
 🟢70.[Climbing Stairs](DynamicProgramming/ClimbingStairs.py)<br>
 🟠91.[Decode Ways](DynamicProgramming/DecodeWays.py)<br>
 🟢118.[Pascal's Triangle](DynamicProgramming/Pascal'sTriangle.py)<br>

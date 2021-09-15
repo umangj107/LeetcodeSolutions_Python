@@ -25,7 +25,7 @@ Following color codes represent the difficulty level:
 🟠287.[Find the Duplicate Number](Arrays/FindTheDuplicateNumber.py)<br>
 🟢344.[Reverse String](Arrays/ReverseString.py)<br>
 🟢349.[Intersection of Two Arrays](Arrays/IntersectionOfTwoArrays.py)<br>
-🟠413.[Arithmetic Slices](DynamicProgramming/ArithmeticSlices.py)<br>
+🟢485.[Max Consecutive Ones](Arrays/MaxConsecutiveOnes.py)<br>
 🟠560.[Subarray Sum Equals K](Arrays/SubarraySumEqualsK.py)<br>
 🟠565.[Array Nesting](Arrays/ArrayNesting.py)<br>
 🟢724.[Find Pivot Index](Arrays/FindPivotIndex.py)<br>
@@ -123,6 +123,7 @@ Following color codes represent the difficulty level:
 🟠304.[Range Sum Query 2D - Immutable](DynamicProgramming/RangeSumQuery2DImmutable.py)<br>
 🟠309.[Best Time to Buy and Sell Stock with Cooldown](DynamicProgramming/BestTimetoBuyandSellStockII.py)<br>
 🟠322.[Coin Change](DynamicProgramming/CoinChange.py)<br>
+🟠413.[Arithmetic Slices](DynamicProgramming/ArithmeticSlices.py)<br>
 🟢509.[Fibonacci Number](DynamicProgramming/FibonacciNumber.py)<br>
 🟠714.[Best Time to Buy and Sell Stock with Transaction Fee](DynamicProgramming/BestTimetoBuyandSellStockwithTransactionFee.py)<br>
 🟠740.[Delete and Earn](DynamicProgramming/DeleteAndEarn.py)<br>

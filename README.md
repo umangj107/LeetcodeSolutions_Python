@@ -126,6 +126,7 @@ Following color codes represent the difficulty level:
 🟠322.[Coin Change](DynamicProgramming/CoinChange.py)<br>
 🟠413.[Arithmetic Slices](DynamicProgramming/ArithmeticSlices.py)<br>
 🟢509.[Fibonacci Number](DynamicProgramming/FibonacciNumber.py)<br>
+🟠516.[Longest Palindromic Subsequence](DynamicProgramming/LongestPalindromicSubsequence.py)<br>
 🟠518.[Coin Change 2](DynamicProgramming/CoinChange2.py)<br>
 🟠583.[Delete Operation for Two Strings](DynamicProgramming/DeleteOperationForTwoStrings.py)<br>
 🟠714.[Best Time to Buy and Sell Stock with Transaction Fee](DynamicProgramming/BestTimetoBuyandSellStockwithTransactionFee.py)<br>

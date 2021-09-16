@@ -133,6 +133,7 @@ Following color codes represent the difficulty level:
 🟠931.[Minimum Falling Path Sum](DynamicProgramming/MinimumFallingPathSum.py)<br>
 🟠1014.[Best Sightseeing Pair](DynamicProgramming/BestSightseeingPair.py)<br>
 🟢1137.[N-th Tribonacci Number](DynamicProgramming/N-thTribonacciNumber.py)<br>
+🟠1143.[Longest Common Subsequence](DynamicProgramming/LongestCommonSubsequence.py)<br>
 🟠1314.[Matrix Block Sum](DynamicProgramming/MatrixBlockSum.py)<br>
 🔴1547.[Minimum Cost to Cut a Stick](DynamicProgramming/MinimumCostToCutAStick.py)<br>
 🟠1567.[Maximum Length of Subarray With Positive Product](DynamicProgramming/MaximumLengthofSubarrayWithPositiveProduct.py)<br>

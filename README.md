@@ -135,6 +135,7 @@ Following color codes represent the difficulty level:
 🟠918.[Maximum Sum Circular Subarray](DynamicProgramming/MaximumSumCircularSubarray.py)<br>
 🟠931.[Minimum Falling Path Sum](DynamicProgramming/MinimumFallingPathSum.py)<br>
 🟠1014.[Best Sightseeing Pair](DynamicProgramming/BestSightseeingPair.py)<br>
+🔴1092.[Shortest Common Supersequence](DynamicProgramming/ShortestCommonSupersequence.py)<br>
 🟢1137.[N-th Tribonacci Number](DynamicProgramming/N-thTribonacciNumber.py)<br>
 🟠1143.[Longest Common Subsequence](DynamicProgramming/LongestCommonSubsequence.py)<br>
 🔴1312.[Minimum Insertion Steps to Make a String Palindrome](DynamicProgramming\MinimumInsertionStepstoMakeaStringPalindrome.py)<br>

@@ -21,6 +21,7 @@ Following color codes represent the difficulty level:
 🟠55.[Jump Game](Arrays/JumpGame.py)<br>
 🟢66.[Plus One](Arrays/PlusOne.py)<br>
 🟠75.[Sort Colors](Arrays/SortColors.py)<br>
+🟢136.[Single Number](Arrays/SingleNumber.py)<br>
 🟠189.[Rotate Array](Arrays/RotateArray.py)<br>
 🟢283.[Move Zeroes](Arrays/MoveZeroes.py)<br>
 🟠287.[Find the Duplicate Number](Arrays/FindTheDuplicateNumber.py)<br>

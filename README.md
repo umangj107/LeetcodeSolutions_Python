@@ -73,6 +73,7 @@ Following color codes represent the difficulty level:
 
 🟠33.[Search in Rotated Sorted Array](SearchingAndSorting/SearchInRotatedSortedArray.py)<br>
 🟠34.[Find First and Last Position of Element in Sorted Array](SearchingAndSorting/FindFirstandLastPositionofElementinSortedArray.py)<br>
+🟢704.[Binary Search](SearchingAndSorting/BinarySearch.py)<br>
 
 ---
 

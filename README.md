@@ -92,6 +92,7 @@ Following color codes represent the difficulty level:
 🟠236.[Lowest Common Ancestor of a Binary Tree](BinaryTrees/LowestCommonAncestorofaBinaryTree.py)<br>
 🟠513.[Find Bottom Left Tree Value](BinaryTrees/FindBottomLeftTreeValue.py)<br>
 🟢543.[Diameter of Binary Tree](BinaryTrees/DiameterOfBinaryTree.py)<br>
+🟢617.[Merge Two Binary Trees](BinaryTrees/MergeTwoBinaryTrees.py)<br>
 🟠654.[Maximum Binary Tree](BinaryTrees/ManimumBinaryTree.py)<br>
 🟠863.[All Nodes Distance K in Binary Tree](BinaryTrees/AllNodesDistanceKinBinaryTree.py)<br>
 🔴987.[Vertical Order Traversal of a Binary Tree](BinaryTrees/VerticalOrderTraversalofaBinaryTree.py)<br>

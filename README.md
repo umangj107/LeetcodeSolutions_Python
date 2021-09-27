@@ -45,6 +45,7 @@ Following color codes represent the difficulty level:
 🟠48.[Rotate Image](Matrix/RotateImage.py)<br>
 🟠54.[Spiral Matrix](Matrix/SpiralMatrix.py)<br>
 🟠74.[Search a 2D Matrix](Matrix/SearchA2DMatrix.py)<br>
+🟠498.[Diagonal Traverse](Matrix/DiagonalTraverse.py)<br>
 🔴1559.[Detect Cycles in 2D Grid](Matrix/DetectCyclesIna2DGrid.py)<br>
 
 ---

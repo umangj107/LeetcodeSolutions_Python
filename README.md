@@ -90,6 +90,7 @@ Following color codes represent the difficulty level:
 🟠103.[Binary Tree Zigzag Level Order Traversal](BinaryTrees/BinaryTreeZigzagLevelOrderTraversal.py)<br>
 🟢104.[Maximum Depth of Binary Tree](BinaryTrees/MaximumDepthOfBinaryTree.py)<br>
 🟠107.[Binary Tree Level Order Traversal II](BinaryTrees/BinaryTreeLevelOrderTraversal2.py)<br>
+🟢110.[Balanced Binary Tree](BinaryTrees/BalancedBinaryTree.py)<br>
 🟠116.[Populating Next Right Pointers in Each Node](BinaryTrees/PopulatingNextRightPointersinEachNode.py)<br>
 🟢144.[Binary Tree Preorder Traversal](BinaryTrees/BinaryTreePreorderTraversal.py)<br>
 🟢145.[Binary Tree Postorder Traversal](BinaryTrees/BinaryTreePostorderTraversal.py)<br>

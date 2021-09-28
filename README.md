@@ -36,6 +36,7 @@ Following color codes represent the difficulty level:
 🟢905.[Sort Array By Parity](Arrays/SortArrayByParity.py)<br>
 🟠910.[Smallest Range II](Arrays/SmallestRangeII.py)<br>
 🟠1509.[Minimum Difference Between Largest and Smallest Value in Three Moves](Arrays/MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves.py)<br>
+🟠1583.[Count Unhappy Friends](Arrays/CountUnhappyFriends.py)<br>
 
 ---
 

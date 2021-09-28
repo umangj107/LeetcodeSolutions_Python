@@ -152,6 +152,7 @@ Following color codes represent the difficulty level:
 🟠377.[Combination Sum IV](DynamicProgramming/CombinationSumIV.py)<br>
 🟢392.[Is Subsequence](DynamicProgramming/IsSubsequence.py)<br>
 🟠413.[Arithmetic Slices](DynamicProgramming/ArithmeticSlices.py)<br>
+🟠416.[Partition Equal Subset Sum](DynamicProgramming/PartitionEqualSubsetSum.py)<br>
 🟢509.[Fibonacci Number](DynamicProgramming/FibonacciNumber.py)<br>
 🟠516.[Longest Palindromic Subsequence](DynamicProgramming/LongestPalindromicSubsequence.py)<br>
 🟠518.[Coin Change 2](DynamicProgramming/CoinChange2.py)<br>

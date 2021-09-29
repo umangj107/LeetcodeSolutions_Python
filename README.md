@@ -24,6 +24,7 @@ Following color codes represent the difficulty level:
 🟠75.[Sort Colors](Arrays/SortColors.py)<br>
 🟢88.[Merge Sorted Array](Arrays/MergeSortedArray.py)<br>
 🟢136.[Single Number](Arrays/SingleNumber.py)<br>
+🟢167.[Two Sum II - Input array is sorted](Arrays/TwoSumII.py)<br>
 🟠189.[Rotate Array](Arrays/RotateArray.py)<br>
 🟢283.[Move Zeroes](Arrays/MoveZeroes.py)<br>
 🟠287.[Find the Duplicate Number](Arrays/FindTheDuplicateNumber.py)<br>

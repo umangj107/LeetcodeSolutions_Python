@@ -70,6 +70,7 @@ Following color codes represent the difficulty level:
 
 ## String
 
+🟠3.[Longest Substring Without Repeating Characters](String/LongestSubstringWithoutRepeatingCharacters.py)<br>
 🟠38.[Count and Say](String/CountAndSay.py)<br>
 🟢125.[Valid Palindrome](String/ValidPallindrome.py)<br>
 🟢205.[Isomorphic Strings](String/IsomorphicStrings.py)<br>

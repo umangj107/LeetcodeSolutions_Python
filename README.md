@@ -195,4 +195,5 @@ Following color codes represent the difficulty level:
 
 ## Backtracking
 
-46.[Permutations](Backtracking/Permutations.py)<br>
+🟠46.[Permutations](Backtracking/Permutations.py)<br>
+🔴51.[N-Queens](Backtracking/N-Queens.py)<br>

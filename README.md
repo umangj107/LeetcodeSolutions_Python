@@ -214,3 +214,9 @@ Following color codes represent the difficulty level:
 
 🟠130.[Surrounded Regions](DFS/SurroundedRegions.py)<br>
 🟢733.[Flood Fill](DFS/FloodFill.py)<br>
+
+---
+
+## Greedy
+
+🔴135.[Candy](Greedy/Candy.py)<br>

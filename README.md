@@ -146,6 +146,7 @@ Following color codes represent the difficulty level:
 🟢70.[Climbing Stairs](DynamicProgramming/ClimbingStairs.py)<br>
 🔴72.[Edit Distance](DynamicProgramming/EditDistance.py)<br>
 🟠91.[Decode Ways](DynamicProgramming/DecodeWays.py)<br>
+🔴115.[Distinct Subsequences](DynamicProgramming/DistinctSubsequences.py)<br>
 🟢118.[Pascal's Triangle](DynamicProgramming/Pascal'sTriangle.py)<br>
 🟢119.[Pascal's Triangle II](DynamicProgramming/Pascal'sTriangleII.py)<br>
 🟠120.[Triangle](DynamicProgramming/Triangle.py)<br>

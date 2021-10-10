@@ -176,6 +176,7 @@ Following color codes represent the difficulty level:
 🟢746.[Min Cost Climbing Stairs](DynamicProgramming/MinimumCostClimbingStairs.py)<br>
 🟠918.[Maximum Sum Circular Subarray](DynamicProgramming/MaximumSumCircularSubarray.py)<br>
 🟠931.[Minimum Falling Path Sum](DynamicProgramming/MinimumFallingPathSum.py)<br>
+🔴940.[Distinct Subsequences II](DynamicProgramming/DistinctSubsequencesII.py)<br>
 🟠1014.[Best Sightseeing Pair](DynamicProgramming/BestSightseeingPair.py)<br>
 🔴1092.[Shortest Common Supersequence](DynamicProgramming/ShortestCommonSupersequence.py)<br>
 🟢1137.[N-th Tribonacci Number](DynamicProgramming/N-thTribonacciNumber.py)<br>

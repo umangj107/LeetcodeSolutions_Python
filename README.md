@@ -80,6 +80,7 @@ Following color codes represent the difficulty level:
 🟠567.[Permutation in String](String/PermutationInAString.py)<br>
 🟢796.[Rotate String](String/RotateString.py)<br>
 🟢1528.[Shuffle String](String/ShuffleString.py)<br>
+🟢2000.[Reverse Prefix of Word](String/ReversePrefixOfWord.py)
 
 ---
 

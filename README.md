@@ -226,3 +226,9 @@ Following color codes represent the difficulty level:
 ## Greedy
 
 🔴135.[Candy](Greedy/Candy.py)<br>
+
+---
+
+## Design
+
+🟠211.[Design Add and Search Words Data Structure](DesignQuestions/DesignAddandSearchWordsDataStructure.py)

@@ -32,6 +32,7 @@ Following color codes represent the difficulty level:
 🟢344.[Reverse String](Arrays/ReverseString.py)<br>
 🟢349.[Intersection of Two Arrays](Arrays/IntersectionOfTwoArrays.py)<br>
 🟢485.[Max Consecutive Ones](Arrays/MaxConsecutiveOnes.py)<br>
+🟠487.[Max Consecutive Ones II](Arrays/MaxConsecutiveOnesII.py)<br>
 🟠560.[Subarray Sum Equals K](Arrays/SubarraySumEqualsK.py)<br>
 🟠565.[Array Nesting](Arrays/ArrayNesting.py)<br>
 🟢724.[Find Pivot Index](Arrays/FindPivotIndex.py)<br>

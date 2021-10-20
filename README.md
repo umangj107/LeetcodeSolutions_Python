@@ -78,6 +78,7 @@ Following color codes represent the difficulty level:
 🟠38.[Count and Say](String/CountAndSay.py)<br>
 🟢125.[Valid Palindrome](String/ValidPallindrome.py)<br>
 🟢205.[Isomorphic Strings](String/IsomorphicStrings.py)<br>
+🟠227.[Basic Calculator II](String/BasicCalculatorII.py)<br>
 🟢557.[Reverse Words in a String III](String/ReverseWordsInAStringIII.py)<br>
 🟠567.[Permutation in String](String/PermutationInAString.py)<br>
 🟢796.[Rotate String](String/RotateString.py)<br>

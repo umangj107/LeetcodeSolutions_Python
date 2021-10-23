@@ -54,6 +54,7 @@ Following color codes represent the difficulty level:
 🟠240.[Search a 2D Matrix II](Matrix/SearchA2DMatrixII.py)<br>
 🟠498.[Diagonal Traverse](Matrix/DiagonalTraverse.py)<br>
 🔴1559.[Detect Cycles in 2D Grid](Matrix/DetectCyclesIna2DGrid.py)<br>
+🟢1672.[Richest Customer Wealth](Matrix/RichestCustomerWealth.py)<br>
 
 ---
 

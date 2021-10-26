@@ -86,6 +86,7 @@ Following color codes represent the difficulty level:
 🟠792.[Number of Matching Subsequences](String/NumberOfMatchingSubsequences.py)<br>
 🟢796.[Rotate String](String/RotateString.py)<br>
 🟢1528.[Shuffle String](String/ShuffleString.py)<br>
+🟠1781.[Sum of Beauty of All Substrings](String/SumOfBeautyOfAllSubstrings.py)<br>
 🟠1946.[Largest Number After Mutating Substring](String/LargestNumberAfterMutatingSubstring.py)<br>
 🟢2000.[Reverse Prefix of Word](String/ReversePrefixOfWord.py)
 🟢2011.[Final Value of Variable After Performing Operations](String/FinalValueOfVariableAfterPerformingOperations.py)<br>

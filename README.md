@@ -147,6 +147,7 @@ Following color codes represent the difficulty level:
 
 ## Stacks and Queues
 
+🟢155.[Min Stack](Stacks&Queues/MinStack.py)<br>
 🟠921.[Minimum Add to Make Parentheses Valid](Stacks&Queues/MinimumAddToMakeParenthesesValid.py)<br>
 🟢1441.[Build an Array With Stack Operations](Stacks&Queues/BuildAnArrayWithStackOperations.py)<br>
 

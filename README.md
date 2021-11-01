@@ -201,6 +201,7 @@ Following color codes represent the difficulty level:
 🔴1092.[Shortest Common Supersequence](DynamicProgramming/ShortestCommonSupersequence.py)<br>
 🟢1137.[N-th Tribonacci Number](DynamicProgramming/N-thTribonacciNumber.py)<br>
 🟠1143.[Longest Common Subsequence](DynamicProgramming/LongestCommonSubsequence.py)<br>
+🔴1223.[Dice Roll Simulation](DynamicProgramming/DiceRollSimulation.py)<br>
 🔴1312.[Minimum Insertion Steps to Make a String Palindrome](DynamicProgramming\MinimumInsertionStepstoMakeaStringPalindrome.py)<br>
 🟠1314.[Matrix Block Sum](DynamicProgramming/MatrixBlockSum.py)<br>
 🔴1547.[Minimum Cost to Cut a Stick](DynamicProgramming/MinimumCostToCutAStick.py)<br>

@@ -252,3 +252,9 @@ Following color codes represent the difficulty level:
 ## Design
 
 🟠211.[Design Add and Search Words Data Structure](DesignQuestions/DesignAddandSearchWordsDataStructure.py)
+
+---
+
+## Math
+
+🟢441. [Arranging Coins](Math/ArrangingCoins.py)<br>

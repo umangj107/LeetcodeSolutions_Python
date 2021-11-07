@@ -80,6 +80,7 @@ Following color codes represent the difficulty level:
 
 🟠3.[Longest Substring Without Repeating Characters](String/LongestSubstringWithoutRepeatingCharacters.py)<br>
 🟠38.[Count and Say](String/CountAndSay.py)<br>
+🟠43.[Multiply Strings](String/MultiplyStrings.py)<br>
 🟢125.[Valid Palindrome](String/ValidPallindrome.py)<br>
 🟢205.[Isomorphic Strings](String/IsomorphicStrings.py)<br>
 🟠227.[Basic Calculator II](String/BasicCalculatorII.py)<br>

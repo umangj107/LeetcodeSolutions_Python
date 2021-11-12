@@ -72,6 +72,7 @@ Following color codes represent the difficulty level:
 🟢141.[Linked List Cycle](LinkedList/LinkedListCycle.py)<br>
 🟠142.[Linked List Cycle II](LinkedList/LinkedListCycle2.py)<br>
 🟢160.[Intersection of Two Linked Lists](LinkedList/IntersectionOfTwoLinkedLists.py)<br>
+🟢203.[Remove Linked List Elements](LinkedList/RemoveLinkedListElements.py)
 🟢206.[Reverse Linked List](LinkedList/ReverseLinkedList.py)<br>
 🟢876.[Middle of the Linked List](LinkedList/MiddleOfTheLinkedList.py)<br>
 

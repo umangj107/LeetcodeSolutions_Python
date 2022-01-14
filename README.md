@@ -73,7 +73,7 @@ Following color codes represent the difficulty level:
 🟢141.[Linked List Cycle](LinkedList/LinkedListCycle.py)<br>
 🟠142.[Linked List Cycle II](LinkedList/LinkedListCycle2.py)<br>
 🟢160.[Intersection of Two Linked Lists](LinkedList/IntersectionOfTwoLinkedLists.py)<br>
-🟢203.[Remove Linked List Elements](LinkedList/RemoveLinkedListElements.py)
+🟢203.[Remove Linked List Elements](LinkedList/RemoveLinkedListElements.py)<br>
 🟢206.[Reverse Linked List](LinkedList/ReverseLinkedList.py)<br>
 🟢876.[Middle of the Linked List](LinkedList/MiddleOfTheLinkedList.py)<br>
 
@@ -98,7 +98,7 @@ Following color codes represent the difficulty level:
 🟢1528.[Shuffle String](String/ShuffleString.py)<br>
 🟠1781.[Sum of Beauty of All Substrings](String/SumOfBeautyOfAllSubstrings.py)<br>
 🟠1946.[Largest Number After Mutating Substring](String/LargestNumberAfterMutatingSubstring.py)<br>
-🟢2000.[Reverse Prefix of Word](String/ReversePrefixOfWord.py)
+🟢2000.[Reverse Prefix of Word](String/ReversePrefixOfWord.py)<br>
 🟢2011.[Final Value of Variable After Performing Operations](String/FinalValueOfVariableAfterPerformingOperations.py)<br>
 
 ---
@@ -148,7 +148,7 @@ Following color codes represent the difficulty level:
 🟠98.[Validate Binary Search Tree](BinarySearchTrees/ValidateBinarySearchTree.py)<br>
 🟢108.[Convert Sorted Array to Binary Search Tree](BinarySearchTrees/ConvertSortedArraytoBinarySearchTree.py)<br>
 🟠230.[Kth Smallest Element in a BST](BinarySearchTrees/KthSmallestElementInaBST.py)<br>
-🟢235.[Lowest Common Ancestor of a Binary Search Tree](BinarySearchTrees/LowestCommomAncestorOfABinarySearchTree.py)
+🟢235.[Lowest Common Ancestor of a Binary Search Tree](BinarySearchTrees/LowestCommomAncestorOfABinarySearchTree.py)<br>
 🟠450.[Delete Node in a BST](BinarySearchTrees/DeleteNodeInABST.py)<br>
 🟢700.[Search in a Binary Search Tree](BinarySearchTrees/SearchInABinarySearchTree.py)<br>
 🟠1008.[Construct Binary Search Tree from Preorder Traversal](BinarySearchTrees/ConstructBinarySearchTreefromPreorderTraversal.py)<br>

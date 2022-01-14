@@ -82,6 +82,7 @@ Following color codes represent the difficulty level:
 ## String
 
 🟠3.[Longest Substring Without Repeating Characters](String/LongestSubstringWithoutRepeatingCharacters.py)<br>
+🟠8.[String to Integer (atoi)](<String/StringToInteger(atoi).py>)<br>
 🟠38.[Count and Say](String/CountAndSay.py)<br>
 🟠43.[Multiply Strings](String/MultiplyStrings.py)<br>
 🟢125.[Valid Palindrome](String/ValidPallindrome.py)<br>

@@ -39,6 +39,7 @@ Following color codes represent the difficulty level:
 🟠560.[Subarray Sum Equals K](Arrays/SubarraySumEqualsK.py)<br>
 🟠565.[Array Nesting](Arrays/ArrayNesting.py)<br>
 🟢724.[Find Pivot Index](Arrays/FindPivotIndex.py)<br>
+🟠849.[Maximize Distance to Closest Person](Arrays/MaximizeDistanceToClosestPerson.py)<br>
 🟢905.[Sort Array By Parity](Arrays/SortArrayByParity.py)<br>
 🟠910.[Smallest Range II](Arrays/SmallestRangeII.py)<br>
 🟢977.[Squares of a Sorted Array](Arrays/SquaresOfASortedArray.py)<br>

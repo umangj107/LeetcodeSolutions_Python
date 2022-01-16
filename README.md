@@ -251,6 +251,12 @@ Following color codes represent the difficulty level:
 
 ---
 
+## BFS
+
+🔴1345.[Jump Game IV](BFS/JumpGameIV.py)<br>
+
+---
+
 ## Greedy
 
 🔴135.[Candy](Greedy/Candy.py)<br>

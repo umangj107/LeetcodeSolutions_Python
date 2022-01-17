@@ -141,6 +141,7 @@ Following color codes represent the difficulty level:
 🟠654.[Maximum Binary Tree](BinaryTrees/ManimumBinaryTree.py)<br>
 🟠863.[All Nodes Distance K in Binary Tree](BinaryTrees/AllNodesDistanceKinBinaryTree.py)<br>
 🔴987.[Vertical Order Traversal of a Binary Tree](BinaryTrees/VerticalOrderTraversalofaBinaryTree.py)<br>
+🟠1022.[Sum of Root To Leaf Binary Numbers](BinaryTrees/SumOfRootToLeafBinaryNumbers.py)<br>
 
 ---
 

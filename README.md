@@ -153,6 +153,7 @@ Following color codes represent the difficulty level:
 🟢235.[Lowest Common Ancestor of a Binary Search Tree](BinarySearchTrees/LowestCommomAncestorOfABinarySearchTree.py)<br>
 🟠450.[Delete Node in a BST](BinarySearchTrees/DeleteNodeInABST.py)<br>
 🟢700.[Search in a Binary Search Tree](BinarySearchTrees/SearchInABinarySearchTree.py)<br>
+🟠701.[Insert into a Binary Search Tree](BinarySearchTrees/InsertIntoABinarySearchTree.py)
 🟠1008.[Construct Binary Search Tree from Preorder Traversal](BinarySearchTrees/ConstructBinarySearchTreefromPreorderTraversal.py)<br>
 🟠1382.[Balance a Binary Search Tree](BinarySearchTrees/BalanceABinarySearchTree.py)<br>
 

@@ -113,6 +113,7 @@ Following color codes represent the difficulty level:
 🟢35.[Search Insert Position](SearchingAndSorting/SearchInsertPosition.py)<br>
 🟢278.[First Bad Version](Python\SearchingAndSorting/FirstBadVersion.py)<br>
 🟢704.[Binary Search](SearchingAndSorting/BinarySearch.py)<br>
+🟠875.[Koko Eating Bananas](SearchingAndSorting/KokoEatingBananas.py)<br>
 
 ---
 

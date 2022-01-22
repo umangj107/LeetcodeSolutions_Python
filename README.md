@@ -265,6 +265,7 @@ Following color codes represent the difficulty level:
 
 ## Greedy
 
+🟠134.[Gas Station](Greedy/GasStation.py)<br>
 🔴135.[Candy](Greedy/Candy.py)<br>
 
 ---

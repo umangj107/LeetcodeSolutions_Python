@@ -158,6 +158,7 @@ Following color codes represent the difficulty level:
 🟢700.[Search in a Binary Search Tree](BinarySearchTrees/SearchInABinarySearchTree.py)<br>
 🟠701.[Insert into a Binary Search Tree](BinarySearchTrees/InsertIntoABinarySearchTree.py)
 🟠1008.[Construct Binary Search Tree from Preorder Traversal](BinarySearchTrees/ConstructBinarySearchTreefromPreorderTraversal.py)<br>
+🟠1305.[All Elements in Two Binary Search Trees](BinarySearchTrees/All ElementsInTwoBinarySearchTrees.py)<br>
 🟠1382.[Balance a Binary Search Tree](BinarySearchTrees/BalanceABinarySearchTree.py)<br>
 
 ---

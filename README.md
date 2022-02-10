@@ -23,6 +23,7 @@ Following color codes represent the difficulty level:
 🟠56.[Merge Intervals](Arrays/MergeIntervals.py)<br>
 🟢66.[Plus One](Arrays/PlusOne.py)<br>
 🟠75.[Sort Colors](Arrays/SortColors.py)<br>
+🟠80.[Remove Duplicates from Sorted Array II](Arrays/RemoveDuplicatesfromSortedArrayII.py)<br>
 🟢88.[Merge Sorted Array](Arrays/MergeSortedArray.py)<br>
 🟢136.[Single Number](Arrays/SingleNumber.py)<br>
 🟠137.[Single Number II](Arrays/SingleNumberII.py)<br>

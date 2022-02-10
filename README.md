@@ -94,6 +94,7 @@ Following color codes represent the difficulty level:
 🟢205.[Isomorphic Strings](String/IsomorphicStrings.py)<br>
 🟠227.[Basic Calculator II](String/BasicCalculatorII.py)<br>
 🟢290.[Word Pattern](String/WordPattern.py)<br>
+🟢389.[Find the Difference](String/FindTheDifference.py)<br>
 🟠438.[Find All Anagrams in a String](String/FindAllAnagramsInAString.py)<br>
 🟢557.[Reverse Words in a String III](String/ReverseWordsInAStringIII.py)<br>
 🟠567.[Permutation in String](String/PermutationInAString.py)<br>

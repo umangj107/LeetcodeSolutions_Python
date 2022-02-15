@@ -286,6 +286,7 @@ Following color codes represent the difficulty level:
 
 ## Math
 
+🟢258.[Add Digits](Math/AddDigits.py)<br>
 🟢441.[Arranging Coins](Math/ArrangingCoins.py)<br>
 🟠2028.[Find Missing Observations](Math/FindMissingObservations.py)<br>
 

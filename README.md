@@ -39,6 +39,7 @@ Following color codes represent the difficulty level:
 🟢485.[Max Consecutive Ones](Arrays/MaxConsecutiveOnes.py)<br>
 🟠487.[Max Consecutive Ones II](Arrays/MaxConsecutiveOnesII.py)<br>
 🟠525.[Contiguous Array](Arrays/ContiguousArray.py)<br>
+🟠532.[K-diff Pairs in an Array](Arrays/K-diffPairsInAnArray.py)<br>
 🟠560.[Subarray Sum Equals K](Arrays/SubarraySumEqualsK.py)<br>
 🟠565.[Array Nesting](Arrays/ArrayNesting.py)<br>
 🟢605.[Can Place Flowers](Arrays/CanPlaceFlowers.py)<br>

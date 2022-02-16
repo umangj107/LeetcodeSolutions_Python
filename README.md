@@ -73,6 +73,7 @@ Following color codes represent the difficulty level:
 
 🟠2.[Add Two Numbers](LinkedList/AddTwoNumbers.py)<br>
 🟠19.[Remove Nth Node From End of List](LinkedList/RemoveNthNodeFromEndofList.py)<br>
+🟠24.[Swap Nodes in Pairs](LinkedList/SwapNodesInPairs.py)<br>
 🔴25.[Reverse Nodes in k-Group](LinkedList/ReverseNodesInKGroups.py)<br>
 🟠82.[Remove Duplicates from Sorted List II](LinkedList/RemoveDuplicatesfromSortedListII.py)<br>
 🟢83.[Remove Duplicates from Sorted List](LinkedList/RemoveDuplicatesFromSortedList.py)<br>

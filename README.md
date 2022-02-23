@@ -247,7 +247,8 @@ Following color codes represent the difficulty level:
 
 ## Heap
 
-🟠215.[Kth Largest Element in an Array](Heap/KthLargestElementInAnArray.py)
+🟠215.[Kth Largest Element in an Array](Heap/KthLargestElementInAnArray.py)<br>
+🔴1675.[Minimize Deviation in Array](Heap/MinimizeDeviationInArray.py)<br>
 
 ---
 

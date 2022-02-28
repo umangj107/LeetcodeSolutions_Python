@@ -38,6 +38,7 @@ Following color codes represent the difficulty level:
 🟠454.[4Sum II](Arrays/4SumII.py)<br>
 🟢485.[Max Consecutive Ones](Arrays/MaxConsecutiveOnes.py)<br>
 🟠487.[Max Consecutive Ones II](Arrays/MaxConsecutiveOnesII.py)<br>
+🔴493.[Reverse Pairs](Arrays/ReversePairs.py)<br>
 🟠525.[Contiguous Array](Arrays/ContiguousArray.py)<br>
 🟠532.[K-diff Pairs in an Array](Arrays/K-diffPairsInAnArray.py)<br>
 🟠560.[Subarray Sum Equals K](Arrays/SubarraySumEqualsK.py)<br>

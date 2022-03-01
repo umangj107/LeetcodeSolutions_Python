@@ -294,7 +294,8 @@ Following color codes represent the difficulty level:
 
 ## Design
 
-🟠211.[Design Add and Search Words Data Structure](DesignQuestions/DesignAddandSearchWordsDataStructure.py)
+🟠146.[LRU Cache](DesignQuestions/LRUCache.py)<br>
+🟠211.[Design Add and Search Words Data Structure](DesignQuestions/DesignAddandSearchWordsDataStructure.py)<br>
 
 ---
 

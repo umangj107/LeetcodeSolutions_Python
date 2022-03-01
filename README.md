@@ -281,6 +281,7 @@ Following color codes represent the difficulty level:
 
 ## BFS
 
+🟠994.[Rotting Oranges](BFS/RottingOranges.py)<br>
 🔴1345.[Jump Game IV](BFS/JumpGameIV.py)<br>
 
 ---

@@ -212,6 +212,7 @@ Following color codes represent the difficulty level:
 🟠304.[Range Sum Query 2D - Immutable](DynamicProgramming/RangeSumQuery2DImmutable.py)<br>
 🟠309.[Best Time to Buy and Sell Stock with Cooldown](DynamicProgramming/BestTimetoBuyandSellStockII.py)<br>
 🟠322.[Coin Change](DynamicProgramming/CoinChange.py)<br>
+🟢338.[Counting Bits](DynamicProgramming/CountingBits.py)<br>
 🟠343.[Integer Break](DynamicProgramming/IntegerBreak.py)<br>
 🟠368.[Largest Divisible Subset](DynamicProgramming/LargestDivisibleSubset.py)<br>
 🟠377.[Combination Sum IV](DynamicProgramming/CombinationSumIV.py)<br>

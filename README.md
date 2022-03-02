@@ -316,3 +316,11 @@ Following color codes represent the difficulty level:
 
 🔴76.[Minimum Window Substring](SlidingWindow/MinimumWindowSubstring.py)<br>
 🔴239.[Sliding Window Maximum](SlidingWindow/SlidingWindowMaximum.py)<br>
+
+---
+
+## Simulation
+
+🟠277.[Find The Celebrity](Simulation/FindTheCelebrity.py)<br>
+
+---

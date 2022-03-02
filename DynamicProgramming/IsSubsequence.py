@@ -43,3 +43,20 @@ class Solution:
         if sIndex != m:
             return False
         return True
+
+
+# Approach-3
+
+class Solution:
+    def isSubsequence(self, s: str, t: str) -> bool:
+        if not s:
+            return True
+        l = len(s)
+        ind = 0
+        for ch in t:
+            if ch == s[ind]:
+                ind += 1
+            if ind == l:
+                return True
+
+        return False

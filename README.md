@@ -233,6 +233,7 @@ Following color codes represent the difficulty level:
 🟠714.[Best Time to Buy and Sell Stock with Transaction Fee](DynamicProgramming/BestTimetoBuyandSellStockwithTransactionFee.py)<br>
 🟠740.[Delete and Earn](DynamicProgramming/DeleteAndEarn.py)<br>
 🟢746.[Min Cost Climbing Stairs](DynamicProgramming/MinimumCostClimbingStairs.py)<br>
+🟠799.[Champagne Tower](DynamicProgramming/ChampagneTower.py)<br>
 🟠918.[Maximum Sum Circular Subarray](DynamicProgramming/MaximumSumCircularSubarray.py)<br>
 🟠931.[Minimum Falling Path Sum](DynamicProgramming/MinimumFallingPathSum.py)<br>
 🔴940.[Distinct Subsequences II](DynamicProgramming/DistinctSubsequencesII.py)<br>

@@ -244,6 +244,7 @@ Following color codes represent the difficulty level:
 🔴1223.[Dice Roll Simulation](DynamicProgramming/DiceRollSimulation.py)<br>
 🔴1312.[Minimum Insertion Steps to Make a String Palindrome](DynamicProgramming\MinimumInsertionStepstoMakeaStringPalindrome.py)<br>
 🟠1314.[Matrix Block Sum](DynamicProgramming/MatrixBlockSum.py)<br>
+🔴1359.[Count All Valid Pickup and Delivery Options](DynamicProgramming/CountAllValidPickupAndDeliveryOptions.py)<br>
 🔴1547.[Minimum Cost to Cut a Stick](DynamicProgramming/MinimumCostToCutAStick.py)<br>
 🟠1567.[Maximum Length of Subarray With Positive Product](DynamicProgramming/MaximumLengthofSubarrayWithPositiveProduct.py)<br>
 

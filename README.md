@@ -254,6 +254,7 @@ Following color codes represent the difficulty level:
 
 🟠207.[Course Schedule](Graphs/CourseSchedule.py)<br>
 🟠684.[Redundant Connection](Graphs/RedundantConnection.py)<br>
+🟠1042.[Flower Planting With No Adjacent](Graphs/FlowerPlantingWithNoAdjacent.py)<br>
 🟠1615.[Maximal Network Rank](Graphs/MaximalNetworkRank.py)<br>
 🟢1791.[Find Center of Star Graph](Graphs/FindCenterOfStarGraph.py)<br>
 

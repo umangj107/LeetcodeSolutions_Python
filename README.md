@@ -283,6 +283,7 @@ Following color codes represent the difficulty level:
 ## DFS
 
 🟠130.[Surrounded Regions](DFS/SurroundedRegions.py)<br>
+🟠200.[Number of Islands](DFS/NumberOfIslands.py)<br>
 🟢733.[Flood Fill](DFS/FloodFill.py)<br>
 🟠688.[Knight Probability in Chessboard](DFS/KnightProbabilityInChessboard.py)<br>
 

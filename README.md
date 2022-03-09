@@ -123,6 +123,7 @@ Following color codes represent the difficulty level:
 🟠33.[Search in Rotated Sorted Array](SearchingAndSorting/SearchInRotatedSortedArray.py)<br>
 🟠34.[Find First and Last Position of Element in Sorted Array](SearchingAndSorting/FindFirstandLastPositionofElementinSortedArray.py)<br>
 🟢35.[Search Insert Position](SearchingAndSorting/SearchInsertPosition.py)<br>
+🟠153.[Find Minimum in Rotated Sorted Array](SearchingAndSorting/FindMinimumInRotatedSortedArray.py)<br>
 🟢278.[First Bad Version](Python\SearchingAndSorting/FirstBadVersion.py)<br>
 🟢704.[Binary Search](SearchingAndSorting/BinarySearch.py)<br>
 🟠875.[Koko Eating Bananas](SearchingAndSorting/KokoEatingBananas.py)<br>

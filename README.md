@@ -287,6 +287,7 @@ Following color codes represent the difficulty level:
 🟠200.[Number of Islands](DFS/NumberOfIslands.py)<br>
 🟢733.[Flood Fill](DFS/FloodFill.py)<br>
 🟠688.[Knight Probability in Chessboard](DFS/KnightProbabilityInChessboard.py)<br>
+🟠695.[Max Area of Island](DFS/MaxAreaOfIsland.py)<br>
 
 ---
 

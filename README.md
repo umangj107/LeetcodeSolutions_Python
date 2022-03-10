@@ -180,6 +180,7 @@ Following color codes represent the difficulty level:
 ## Stacks and Queues
 
 🟢20.[Valid Parentheses](Stacks&Queues/ValidParentheses.py)<br>
+🔴84.[Largest Rectangle in Histogram](Stacks&Queues/LargestRectangleInHistogram.py)<br>
 🟢155.[Min Stack](Stacks&Queues/MinStack.py)<br>
 🟢225.[Implement Stack using Queues](Stacks&Queues/ImplementStackUsingQueues.py)<br>
 🟢232.[Implement Queue using Stacks](Stacks&Queues/ImplementQueueUsingStacks.py)<br>

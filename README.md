@@ -65,6 +65,7 @@ Following color codes represent the difficulty level:
 🟠48.[Rotate Image](Matrix/RotateImage.py)<br>
 🟠54.[Spiral Matrix](Matrix/SpiralMatrix.py)<br>
 🟠74.[Search a 2D Matrix](Matrix/SearchA2DMatrix.py)<br>
+🔴85.[Maximal Rectangle](Matrix/MaximalRectangle.py)<br>
 🟠240.[Search a 2D Matrix II](Matrix/SearchA2DMatrixII.py)<br>
 🟠378.[Kth Smallest Element in a Sorted Matrix](Matrix/KthSmallestElementInASortedMatrix.py)<br>
 🟠498.[Diagonal Traverse](Matrix/DiagonalTraverse.py)<br>

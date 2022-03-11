@@ -81,6 +81,7 @@ Following color codes represent the difficulty level:
 🔴23.[Merge k Sorted Lists](LinkedList/MergeKSortedLists.py)<br>
 🟠24.[Swap Nodes in Pairs](LinkedList/SwapNodesInPairs.py)<br>
 🔴25.[Reverse Nodes in k-Group](LinkedList/ReverseNodesInKGroups.py)<br>
+🟠61.[Rotate List](LinkedList/RotateList.py)<br>
 🟠82.[Remove Duplicates from Sorted List II](LinkedList/RemoveDuplicatesfromSortedListII.py)<br>
 🟢83.[Remove Duplicates from Sorted List](LinkedList/RemoveDuplicatesFromSortedList.py)<br>
 🟢141.[Linked List Cycle](LinkedList/LinkedListCycle.py)<br>

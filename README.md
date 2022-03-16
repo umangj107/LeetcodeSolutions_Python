@@ -193,6 +193,7 @@ Following color codes represent the difficulty level:
 🟠739.[Daily Temperatures](Stacks&Queues/DailyTemperatures.py)<br>
 🟠901.[Online Stock Span](Stacks&Queues/OnlineStockSpan.py)<br>
 🟠921.[Minimum Add to Make Parentheses Valid](Stacks&Queues/MinimumAddToMakeParenthesesValid.py)<br>
+🟠946.[Validate Stack Sequences](Stacks&Queues/ValidateStackSequences.py)<br>
 🟠1249.[Minimum Remove to Make Valid Parentheses](Stacks&Queues/MinimumRemoveToMakeValidParentheses.py)<br>
 🟢1441.[Build an Array With Stack Operations](Stacks&Queues/BuildAnArrayWithStackOperations.py)<br>
 

@@ -348,3 +348,9 @@ Following color codes represent the difficulty level:
 🟠277.[Find The Celebrity](Simulation/FindTheCelebrity.py)<br>
 
 ---
+
+## Trie
+
+🟠208. [Implement Trie (Prefix Tree)](<Trie/ImplementTrie(PrefixTree).py>)<br>
+
+---

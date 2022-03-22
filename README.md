@@ -318,6 +318,7 @@ Following color codes represent the difficulty level:
 
 🟠134.[Gas Station](Greedy/GasStation.py)<br>
 🔴135.[Candy](Greedy/Candy.py)<br>
+🟠1663.[Smallest String With A Given Numeric Value](Greedy/SmallestStringWithAGivenNumericValue.py)<br>
 
 ---
 

@@ -335,6 +335,7 @@ Following color codes represent the difficulty level:
 🟢258.[Add Digits](Math/AddDigits.py)<br>
 🟢441.[Arranging Coins](Math/ArrangingCoins.py)<br>
 🟠779.[K-th Symbol in Grammar](Math/K-thSymbolInGrammar.py)<br>
+🟠991.[Broken Calculator](Math/BrokenCalculator.py)<br>
 🟠2028.[Find Missing Observations](Math/FindMissingObservations.py)<br>
 
 ---

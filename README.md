@@ -333,6 +333,7 @@ Following color codes represent the difficulty level:
 
 🟠146.[LRU Cache](DesignQuestions/LRUCache.py)<br>
 🟠211.[Design Add and Search Words Data Structure](DesignQuestions/DesignAddandSearchWordsDataStructure.py)<br>
+🟠1396.[Design Underground System](DesignQuestions/DesignUndergroundSystem.py)<br>
 
 ---
 

@@ -56,6 +56,7 @@ Following color codes represent the difficulty level:
 🟢1413.[Minimum Value to Get Positive Step by Step Sum](Arrays/MinimumValueToGetPositiveStepByStepSum.py)<br>
 🟠1509.[Minimum Difference Between Largest and Smallest Value in Three Moves](Arrays/MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves.py)<br>
 🟠1583.[Count Unhappy Friends](Arrays/CountUnhappyFriends.py)<br>
+🟠1679.[Max Number of K-Sum Pairs](Arrays/MaxNumberOfK-SumPairs.py)<br>
 🟠1865.[Finding Pairs With a Certain Sum](Arrays/FindingPairsWithACertainSum.py)<br>
 
 ---

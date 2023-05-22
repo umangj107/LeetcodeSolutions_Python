@@ -117,6 +117,7 @@ Following color codes represent the difficulty level:
 🟢796.[Rotate String](String/RotateString.py)<br>
 🟢925.[Long Pressed Name](String/LongPressedName.py)<br>
 🟢1047.[Remove All Adjacent Duplicates In String](String/RemoveAllAdjacentDuplicatesInString.py)<br>
+🟢1071.[Greatest Common Divisor of Strings](String\GreatestCommonDivisorOfStrings.py)<br>
 🟠1209.[Remove All Adjacent Duplicates in String II](String/RemoveAllAdjacentDuplicatesInStringII.py)<br>
 🟢1528.[Shuffle String](String/ShuffleString.py)<br>
 🟠1781.[Sum of Beauty of All Substrings](String/SumOfBeautyOfAllSubstrings.py)<br>

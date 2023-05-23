@@ -54,6 +54,7 @@ Following color codes represent the difficulty level:
 🟠1094.[Car Pooling](Arrays/CarPooling.py)<br>
 🔴1250.[Check If It Is a Good Array](Arrays/CheckIfItIsAGoodArray.py)<br>
 🟢1413.[Minimum Value to Get Positive Step by Step Sum](Arrays/MinimumValueToGetPositiveStepByStepSum.py)<br>
+🟢1431.[Kids With the Greatest Number of Candies](Arrays/KidsWithTheGreatestNumberOfCandies.py)<br>
 🟠1509.[Minimum Difference Between Largest and Smallest Value in Three Moves](Arrays/MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves.py)<br>
 🟠1583.[Count Unhappy Friends](Arrays/CountUnhappyFriends.py)<br>
 🟠1679.[Max Number of K-Sum Pairs](Arrays/MaxNumberOfK-SumPairs.py)<br>

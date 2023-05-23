@@ -286,6 +286,7 @@ Following color codes represent the difficulty level:
 
 🟠215.[Kth Largest Element in an Array](Heap/KthLargestElementInAnArray.py)<br>
 🟠347.[Top K Frequent Elements](Heap/TopKFrequentElements.py)<br>
+🟢703.[Kth Largest Element in a Stream](Heap/KthLargestElementInAStream.py)<br>
 🔴1675.[Minimize Deviation in Array](Heap/MinimizeDeviationInArray.py)<br>
 
 ---

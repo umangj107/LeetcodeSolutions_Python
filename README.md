@@ -101,6 +101,7 @@ Following color codes represent the difficulty level:
 
 🟠3.[Longest Substring Without Repeating Characters](String/LongestSubstringWithoutRepeatingCharacters.py)<br>
 🟠8.[String to Integer (atoi)](<String/StringToInteger(atoi).py>)<br>
+🟢13.[Roman to Integer](String/RomanToInteger.py)<br>
 🔴32.[Longest Valid Parentheses](String/LongestValidParentheses.py)<br>
 🟠38.[Count and Say](String/CountAndSay.py)<br>
 🟠43.[Multiply Strings](String/MultiplyStrings.py)<br>

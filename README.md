@@ -94,6 +94,7 @@ Following color codes represent the difficulty level:
 🟢203.[Remove Linked List Elements](LinkedList/RemoveLinkedListElements.py)<br>
 🟢206.[Reverse Linked List](LinkedList/ReverseLinkedList.py)<br>
 🟢876.[Middle of the Linked List](LinkedList/MiddleOfTheLinkedList.py)<br>
+🟠2181.[Merge Nodes in Between Zeros](LinkedList/MergeNodesInBetweenZeros.py)<br>
 
 ---
 

@@ -22,6 +22,7 @@ Following color codes represent the difficulty level:
 🟠55.[Jump Game](Arrays/JumpGame.py)<br>
 🟠56.[Merge Intervals](Arrays/MergeIntervals.py)<br>
 🟢66.[Plus One](Arrays/PlusOne.py)<br>
+🟢70.[Climbing Stairs](Arrays/ClimbingStairs.py)<br>
 🟠75.[Sort Colors](Arrays/SortColors.py)<br>
 🟠80.[Remove Duplicates from Sorted Array II](Arrays/RemoveDuplicatesfromSortedArrayII.py)<br>
 🟢88.[Merge Sorted Array](Arrays/MergeSortedArray.py)<br>

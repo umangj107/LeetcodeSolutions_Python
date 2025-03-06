@@ -159,6 +159,7 @@ Following color codes represent the difficulty level:
 🟢104.[Maximum Depth of Binary Tree](BinaryTrees/MaximumDepthOfBinaryTree.py)<br>
 🟠107.[Binary Tree Level Order Traversal II](BinaryTrees/BinaryTreeLevelOrderTraversal2.py)<br>
 🟢110.[Balanced Binary Tree](BinaryTrees/BalancedBinaryTree.py)<br>
+🟢112.[Path Sum](BinaryTrees/PathSum.py)<br>
 🟠114.[Flatten Binary Tree to Linked List](BinaryTrees/FlattenBinaryTreeToLinkedList.py)<br>
 🟠116.[Populating Next Right Pointers in Each Node](BinaryTrees/PopulatingNextRightPointersinEachNode.py)<br>
 🔴124.[Binary Tree Maximum Path Sum](BinaryTrees/BinaryTreeMaximumPathSum.py)<br>

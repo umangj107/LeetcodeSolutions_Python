@@ -174,6 +174,7 @@ Following color codes represent the difficulty level:
 🟠536.[Construct Binary Tree from String](BinaryTrees/ConstructBinaryTreeFromString.py)<br>
 🟢543.[Diameter of Binary Tree](BinaryTrees/DiameterOfBinaryTree.py)<br>
 🟠545.[Boundary of Binary Tree](BinaryTrees/BoundaryOfBinaryTree.py)<br>
+🟢572.[Subtree of Another Tree](BinaryTrees/SubtreeOfAnotherTree.py)<br>
 🟢606.[Construct String from Binary Tree](BinaryTrees/ConstructStringFromBinaryTree.py)<br>
 🟢617.[Merge Two Binary Trees](BinaryTrees/MergeTwoBinaryTrees.py)<br>
 🟢637.[Average of Levels in Binary Tree](BinaryTrees/AverageOfLevelsInBinaryTree.py)<br>

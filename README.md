@@ -124,6 +124,7 @@ Following color codes represent the difficulty level:
 🟢657.[Robot Return to Origin](String/RobotReturnToOrigin.py)<br>
 🟠792.[Number of Matching Subsequences](String/NumberOfMatchingSubsequences.py)<br>
 🟢796.[Rotate String](String/RotateString.py)<br>
+🟢844.[Backspace String Compare](String/BackspaceStringCompare.py)<br>
 🟢925.[Long Pressed Name](String/LongPressedName.py)<br>
 🟢1047.[Remove All Adjacent Duplicates In String](String/RemoveAllAdjacentDuplicatesInString.py)<br>
 🟢1071.[Greatest Common Divisor of Strings](String/GreatestCommonDivisorOfStrings.py)<br>
